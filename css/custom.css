@@ -86,4 +86,29 @@ a{
 
 /* package ends */
 
+/* footer */
 
+footer{
+  background: #0B0D17;
+}
+
+.store-icon i{
+  font-size: 30px;
+  line-height: 60px;
+  color:white;
+  padding-left: 20px;
+  padding-right: 15px;
+  border-left: 5px solid white;
+}
+
+.get-app{
+  color: white;
+}
+
+.market-place{
+  background: #48dbfb;
+}
+.market{
+  border: 2px solid white;
+}
+/* footer ends */
