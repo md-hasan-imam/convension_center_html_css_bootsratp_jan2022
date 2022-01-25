@@ -1,0 +1,89 @@
+ul{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+
+
+.site-title{
+
+}
+
+
+/* package starts */
+
+.package{
+  transition: all linear .4s;
+  -webkit-transition: all linear .4s;
+  -moz-transition: all linear .4s;
+  -ms-transition: all linear .4s;
+  -o-transition: all linear .4s;
+}
+.package:hover{
+  background: #48dbfb;
+}
+
+.package-button{
+  background: white;
+  border: 2px solid #3bb1cb;
+  padding: 5px 7px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  font-weight: 700;
+  transition: all linear .4s;
+  -webkit-transition: all linear .4s;
+  -moz-transition: all linear .4s;
+  -ms-transition: all linear .4s;
+  -o-transition: all linear .4s;
+}
+.package-button a{
+  color: black;
+  transition: all linear .4s;
+  -webkit-transition: all linear .4s;
+  -moz-transition: all linear .4s;
+  -ms-transition: all linear .4s;
+  -o-transition: all linear .4s;
+}
+
+.package-button:hover a{
+  color: white;
+}
+
+.package-button:hover{
+  background: #103a43;
+}
+
+.package:hover .package-button{
+  border-color: black;
+  
+}
+
+.popular{
+  top: -10px;
+  right: 5%;
+  background: red;
+  padding: 5px 10px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.popular p{
+  margin: 0;
+  color: white;
+
+}
+.package-facilities ul li p{
+  font-size: 14px;
+}
+
+/* package ends */
+
+
